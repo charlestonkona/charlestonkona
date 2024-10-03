@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlestonkona
-- 👀 I’m interested in enterprise data analytics, predictiv modeling, and forecasting in military recruit populations.
+- 👀 I’m interested in enterprise data analytics, predictive modeling, and forecasting in military recruit populations.
 - 🌱 I’m currently learning machine learning methods for integration into military research.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
